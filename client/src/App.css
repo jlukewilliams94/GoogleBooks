@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.background-image {
+  background-image: url('https://www.parisperfect.com/blog/wp-content/uploads/2017/11/Shakespeare-and-Company-Kiren.jpg');
+    min-height: 720px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
